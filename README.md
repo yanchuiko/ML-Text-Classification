@@ -1,7 +1,5 @@
 # ML-Text-Classification
 
-# Text Classification Project
-
 This project involves comparing the accuracy of different machine learning models and vectorization techniques for a text classification task.
 
 ## Models Used
