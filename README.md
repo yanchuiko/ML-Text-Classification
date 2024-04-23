@@ -18,7 +18,7 @@ Each model is tested with three different vectorization techniques:
 
 ## Results
 
-The results of the comparisons are visualized using a bar chart, which shows the accuracy of each model with each vectorization technique.
+![image](https://github.com/yanchuiko21/ML-Text-Classification/assets/115407436/55f286ef-4b6a-4ded-b609-e1477b0430dd)
 
 ## Usage
 
