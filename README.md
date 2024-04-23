@@ -6,9 +6,9 @@ This project involves comparing the accuracy of different machine learning model
 
 The models used in this project include:
 
-- Naive Bayes (NB)
-- Logistic Regression (LR)
-- Support Vector Machine (SVM)
+- Multinomial Naive Bayes
+- Logistic Regression
+- Linear Support Vector Machine
 
 Each model is tested with three different vectorization techniques:
 
